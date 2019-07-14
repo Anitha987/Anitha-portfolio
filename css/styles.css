@@ -1,9 +1,12 @@
 body{
-    background-image: url(https://previews.123rf.com/images/ookasan/ookasan1610/ookasan161000197/64569484-gray-colour-stone-wall-background-texture.jpg);
+    background-image: url(https://ak9.picdn.net/shutterstock/videos/27599329/thumb/1.jpg);
     background-size:cover;
     background-repeat:no-repeat;
   }
   #About{
       background-image: url(https://ak0.picdn.net/shutterstock/videos/27599320/thumb/1.jpg);
 
+  }
+  #contact{
+      background-color: #F9B1C4;
   }
